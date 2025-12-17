@@ -1,7 +1,7 @@
 
-# 🌊 FNO-DSTM: Fourier Neural Operator for Dynamic Spatio-Temporal Modeling
+# 🌊 FNO-DSTM: Fourier neural operator for dynamic spatio-temporal forecasting
 
-This repository contains the code and workflows used in our **FNO-DSTM** paper titled "**Spatio-temporal modeling with Fourier neural operators**", which combines the Fourier Neural Operator framework with dynamic spatio-temporal modeling for both simulated and real-world data.
+This repository contains the code and workflows used in our **FNO-DSTM** paper titled "**Spatio-temporal modeling with Fourier neural operators**", which combines the Fourier neural operator framework with spatio-temporal modeling for dynamic forecasting.
 
 ---
 
