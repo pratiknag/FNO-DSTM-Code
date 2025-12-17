@@ -16,8 +16,8 @@ This repository contains the code and workflows used in our **FNO-DSTM** paper t
 To clone the repository and set up the environment:
 
 ```bash
-git clone https://github.com/pratiknag/FNO-DSTM.git
-cd FNO-DSTM
+git clone https://github.com/pratiknag/FNO-DSTM-Code.git
+cd FNO-DSTM-Code
 bash setup.sh
 ````
 
