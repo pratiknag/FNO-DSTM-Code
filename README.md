@@ -111,17 +111,17 @@ Each script has a description of modifiable hyperparameters at the top.
 
 ### SST Forecasting (FNO-DSTM)
 
-| True Observation        | Prediction                  | Standard Error            |
+| True Observation        | Prediction                  | 95% forecast interval     |
 | ----------------------- | --------------------------- | ------------------------- |
-| ![](plots/sst-true.png) | ![](plots/sst-FNO-pred.png) | ![](plots/sst-FNO-se.png) |
+| ![](plots/sst/sst-true.png) | ![](plots/sst/sst-FNO-pred.png) | ![](plots/sst/sst-FNO-se.png) |
 
 ---
 
 ### Precipitation Forecasting (FNO-DSTM)
 
-| True Observation           | Prediction                     | Standard Error               |
+| True Observation           | Prediction                     | 95% forecast interval        |
 | -------------------------- | ------------------------------ | ---------------------------- |
-| ![](plots/precip-true.png) | ![](plots/precip-FNO-pred.png) | ![](plots/precip-FNO-se.png) |
+| ![](plots/precip/precip-true.png) | ![](plots/precip/precip-FNO-pred.png) | ![](plots/precip/precip-FNO-se.png) |
 
 ---
 
