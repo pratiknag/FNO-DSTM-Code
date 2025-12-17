@@ -111,17 +111,41 @@ Each script has a description of modifiable hyperparameters at the top.
 
 ### SST Forecasting (FNO-DSTM)
 
-| True Observation        | Prediction                  | 95% forecast interval     |
-| ----------------------- | --------------------------- | ------------------------- |
-| ![](plots/sst/sst-true.png) | ![](plots/sst/sst-FNO-pred.png) | ![](plots/sst/sst-FNO-se.png) |
+<table>
+  <tr>
+    <th>True Observation</th>
+    <th>Prediction</th>
+    <th>95% Forecast Interval</th>
+  </tr>
+  <tr>
+    <td><img src="plots/sst/sst-true.png" width="300"></td>
+    <td><img src="plots/sst/sst-FNO-pred.png" width="300"></td>
+    <td><img src="plots/sst/sst-FNO-se.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
 ### Precipitation Forecasting (FNO-DSTM)
 
-| True Observation           | Prediction                     | 95% forecast interval        |
-| -------------------------- | ------------------------------ | ---------------------------- |
-| ![](plots/precip/precip-true.png) | ![](plots/precip/precip-FNO-pred.png) | ![](plots/precip/precip-FNO-se.png) |
+<table>
+  <tr>
+    <th>True Observation</th>
+    <th>Prediction</th>
+    <th>95% Forecast Interval</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="plots/precip/precip-true.png" width="300">
+    </td>
+    <td>
+      <img src="plots/precip/precip-FNO-pred.png" width="300">
+    </td>
+    <td>
+      <img src="plots/precip/precip-FNO-se.png" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
